@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Kartini Application</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="koleksi_ra_kartini">Koleksi RA Kartini</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_suspendisse_et_massa_elementum_elementum_turpis_a_vestibulum_risus_praesent_commodo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et massa elementum, elementum turpis a, vestibulum risus. Praesent commodo ....................</string>
+    <string name="koleksi_sosro_kartono">Koleksi Sosro Kartono</string>
+    <string name="benda_bersejarah_dan_purbakala">Benda Bersejarah dan Purbakala</string>
+    <string name="ikon_joko_tua">Ikon Joko Tua</string>
+    <string name="skor">Skor :</string>
+    <string name="_0">0</string>
+    <string name="benda_benda_bersejarah">Benda - Benda Bersejarah</string>
+    <string name="ruang_pertama">Ruang Pertama</string>
+    <string name="ruang_kedua">Ruang Kedua</string>
+    <string name="ruang_keempat">Ruang Keempat</string>
+    <string name="ruang_ketiga">Ruang Ketiga</string>
+    <string name="pilih_tanggal">Pilih Tanggal</string>
+    <string name="untuk_tanggal">Untuk Tanggal</string>
+    <string name="tempat">Tempat</string>
+    <string name="_13_oktober_2021">13 Oktober 2021</string>
+    <string name="museum_kartini">Museum Kartini</string>
+    <string name="estimasi_harga">Estimasi Harga</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="_1">1</string>
+    <string name="rp_5_000">Rp 5.000</string>
+    <string name="beri_penilaian">Beri Penilaian</string>
+    <string name="kritik">KRITIK</string>
+    <string name="saran">SARAN</string>
+</resources>
